@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/pybind11_json_vendor-release.git
 tracks:
   humble:
     actions:
