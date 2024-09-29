@@ -1,3 +1,26 @@
+## pybind11_json_vendor (jazzy) - 0.4.2-1
+
+The packages in the `pybind11_json_vendor` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy pybind11_json_vendor --override-release-repository-push-url git@github.com:revyos-ros/pybind11_json_vendor-release.git` on `Sun, 29 Sep 2024 02:02:18 -0000`
+
+The `pybind11_json_vendor` package was released.
+
+Version of package(s) in repository `pybind11_json_vendor`:
+
+- upstream repository: https://github.com/open-rmf/pybind11_json_vendor
+- release repository: https://github.com/revyos-ros/pybind11_json_vendor-release.git
+- rosdistro version: `0.4.2-1`
+- old version: `0.5.0-1`
+- new version: `0.4.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## pybind11_json_vendor (jazzy) - 0.5.0-1
 
 The packages in the `pybind11_json_vendor` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy pybind11_json_vendor --override-release-repository-push-url git@github.com:revyos-ros/pybind11_json_vendor-release.git` on `Fri, 27 Sep 2024 08:08:40 -0000`
